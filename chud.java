@@ -7,4 +7,8 @@
  */
 public class chud
 {
+    public static void main(String args[])
+    {
+        
+    }
 }
